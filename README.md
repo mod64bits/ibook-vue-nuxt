@@ -8,7 +8,7 @@
 
 # Ibook - Plataforma de leitura online para livros digitais
 
-<p>Esse projeto foi feito por: <strong>Thiago Silva Lopes</strong>, em 06/2021.</br>
+<p>Esse projeto foi feito por: <strong>Marcio Oliveira (mod64)</strong>, em 06/2021.</br>
 Tendo como base, as aulas de Escalando Vue com Nuxt, no Bootcamp Full Stack da <a href="https://bootcamp.cataline.io/">Cataline</a>.
 
 ## Demo: https://ibook-nuxt.vercel.app
